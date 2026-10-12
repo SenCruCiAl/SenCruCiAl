@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sidhant%20Sinha&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ML%20%C2%B7%20Autonomous%20Systems%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sidhant%20Sinha&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=UG%20Researcher%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI&descSize=18&descAlignY=58" alt="header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=640&lines=Building+ML+systems+that+actually+ship+%E2%9A%A1;Teaching+cars+to+survive+Indian+roads+%F0%9F%9B%BA%F0%9F%90%84;Reproducing+papers+from+scratch+%F0%9F%93%84;Compressing+whole+lessons+into+one+SMS+%F0%9F%93%B1)](https://github.com/SenCruCiAl)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=640&lines=Undergraduate+researcher+%F0%9F%94%AC;Working+with+Machine+Learning+%26+AI+%F0%9F%A7%A0;Logic+and+analysis+over+blind+belief+%E2%9A%96%EF%B8%8F;Show+me+the+evidence+%F0%9F%93%8A)](https://github.com/SenCruCiAl)
 
 ![Profile views](https://komarev.com/ghpvc/?username=SenCruCiAl&color=2c5364&style=flat-square&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/SenCruCiAl?style=flat-square&color=203a43&logo=github)](https://github.com/SenCruCiAl?tab=followers)
@@ -13,7 +13,7 @@
 
 ### 👋 Hey, I'm Sidhant
 
-I like problems where the textbook answer breaks. Where a lane-based self-driving stack has **no lanes**, where "just stream a video lesson" assumes **internet that isn't there**, and where a paper's result is only believable once you've **rebuilt it yourself**.
+I'm an **undergraduate researcher** working with **machine learning and AI**. I prefer **logic and analysis over firm belief**: a claim is only worth something once the evidence backs it, which is why I rebuild papers from scratch and test what I ship.
 
 
 
