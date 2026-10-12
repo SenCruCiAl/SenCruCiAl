@@ -15,11 +15,8 @@
 
 I like problems where the textbook answer breaks. Where a lane-based self-driving stack has **no lanes**, where "just stream a video lesson" assumes **internet that isn't there**, and where a paper's result is only believable once you've **rebuilt it yourself**.
 
-- 🎓 Student at **SRMIST**
-- 🚗 Working on **autonomous navigation** for chaotic, unstructured traffic (SIH 2026)
-- 🏥 Researching **Digital Surgical Twins with adaptive AR** (UROP)
-- 🧪 Obsessed with clean engineering: tests, CI, reproducible results
-- 💬 Ask me about: machine learning, path planning, computer vision, optimization
+
+
 
 ---
 
